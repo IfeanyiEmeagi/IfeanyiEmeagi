@@ -1,22 +1,8 @@
 ### Hi there 👋
 
-My name is Ifeanyi, I am a full stack data scientist, interested in data science, data engineering, data driven applications and Natural Language Processing (NLP).
+My name is Ifeanyi, I am a full stack data scientist, interested in data science, web scraping, data engineering, data driven applications and Natural Language Processing (NLP).
 
-- 🔭 I’m currently working on a crypto sentiment analysis app using Google Gemma LLM to identify coins with potential.
-- 🌱 I recently offered a solution to pertinent questions on a sales report using visualization. Check it out [here](https://sales-analysis-ifeanyi-darlington.streamlit.app/).
-- 👯 I’m looking to collaborate on building any AI project, involving data analysis and data engineering. Send me email at ifeanyi.emeagi@gmail.com.
-  
-<!--
-**IfeanyiEmeagi/IfeanyiEmeagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on an educational tutor application that explicitly provide positive feedback on student's assessments.
+- 🌱 I used visualization to provide answers to few questions on sales data. Check it out [here](https://sales-analysis-ifeanyi-darlington.streamlit.app/).
+- 👯 I'm interested in collaborating on projects involving web scraping, AI development, data analysis and data engineering. If you are working in these projects feel free to send me an email at ifeanyi.emeagi@gmail.com.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
