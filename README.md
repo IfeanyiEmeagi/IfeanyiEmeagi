@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ifeanyi, I am a professional data analyst with extensive background in Technical Support. I have keen interest in building and deploying efficient data pipelines, and AI-powered data driven applications.
+My name is Ifeanyi, I am a professional Data Analystics Engineer. I have keen interest in building efficient ETL pipelines, data warehouse and AI-powered data driven applications.
 
 What I am doing at the moment...
 -  I’m currently working on a smart conversational chat bot that would enable researchers to interact with research papers uploaded on arXiv.  
